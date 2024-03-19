@@ -27171,7 +27171,7 @@ var $async$as2=A.H(function(a,b){if(a===1)return A.D(b,r)
 while(true)switch(s){case 0:if($.a5==null)A.CE()
 $.a5.toString
 s=2
-return A.C(A.age("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJ5YmxiZnlva2psY2lrZWNqcWFwIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MDc2ODE3NDMsImV4cCI6MjAyMzI1Nzc0M30.y7OdloaUTTsG-3MSfEVDZQ4ZRGSwQUrxC5lpxyYokYk",B.Eu,B.LM,B.NH,"https://ryblbfyokjlcikecjqap.supabase.co"),$async$as2)
+return A.C(A.age("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5weWJ0ZHB1dmRvaWJ4aGRlYnJiIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MDgxODcyOTksImV4cCI6MjAyMzc2MzI5OX0.BOUB-qL4xoQoYImM0kwGMwfViZsuyoq3e_DiVXWcyTQ",B.Eu,B.LM,B.NH,"https://npybtdpuvdoibxhdebrb.supabase.co"),$async$as2)
 case 2:A.aup(B.Of)
 if($.a5==null)A.CE()
 q=$.a5
@@ -28127,7 +28127,7 @@ A.aqo.prototype={
 $1(a){var s=A.eU().b
 if(s==null)s=null
 else{s=s.canvasKitBaseUrl
-if(s==null)s=null}return(s==null?"https://www.gstatic.com/flutter-canvaskit/04817c99c9fd4956f27505204f7e344335810aed/":s)+a},
+if(s==null)s=null}return(s==null?"https://www.gstatic.com/flutter-canvaskit/2e4ba9c6fb499ccd4e81420543783cc7267ae406/":s)+a},
 $S:100}
 A.aqE.prototype={
 $1(a){this.a.remove()
